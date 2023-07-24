@@ -1,0 +1,1 @@
+Ce répertoire est utilisé pour stocker des fichiers temporaires.
